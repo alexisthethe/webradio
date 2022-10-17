@@ -1,0 +1,2859 @@
+{
+  "NRJ": {
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/40101/aac_576.mp3",
+    "country": "FR",
+    "logo": "https://img.nrj.fr/4J6wSWPvncZQFN2ATo7rRrZCQ50=/medias/2021/06/logo-nrj_60db2627d4729.svg"
+  },
+  "Fun Radio": {
+    "url": "http://stream.funradio.sk:8000/fun128.mp3",
+    "country": "FR"
+  },
+  "FG": {
+    "url": "http://radiofg.impek.com/fg.mp3",
+    "country": "FR"
+  },
+  "RFM": {
+    "url": "https://ais-live-hls.cloud-services.paris/rfm.aac/playlist.m3u8",
+    "country": "FR"
+  },
+  "Cherie Fm": {
+    "url": "http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "RTL2": {
+    "url": "http://streaming.radio.rtl2.fr/rtl2-1-44-128",
+    "country": "FR"
+  },
+  "Sud Radio": {
+    "url": "http://start-sud.ice.infomaniak.ch/start-sud-high.mp3",
+    "country": "FR"
+  },
+  "Virgin Radio": {
+    "url": "http://ais-live.cloud-services.paris:8000/virgin.mp3",
+    "country": "FR"
+  },
+  "Skyrock": {
+    "url": "http://icecast.skyrock.net/s/natio_mp3_128k",
+    "country": "FR"
+  },
+  "BFM Business": {
+    "url": "http://chai5she.cdn.dvmr.fr/bfmbusiness",
+    "country": "FR"
+  },
+  "Radio Classique": {
+    "url": "http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
+    "country": "FR"
+  },
+  "Europe 1": {
+    "url": "http://ais-live.cloud-services.paris:8000/europe1.mp3",
+    "country": "FR"
+  },
+  "RTL": {
+    "url": "http://streaming.radio.rtl.fr/rtl-1-44-128",
+    "country": "FR"
+  },
+  "RMC": {
+    "url": "http://chai5she.cdn.dvmr.fr/rmcinfo",
+    "country": "FR"
+  },
+  "France Inter": {
+    "url": "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
+    "country": "FR"
+  },
+  "France Info": {
+    "url": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+    "country": "FR"
+  },
+  "France Culture": {
+    "url": "http://direct.franceculture.fr/live/franceculture-midfi.mp3",
+    "country": "FR"
+  },
+  "France Musique": {
+    "url": "http://direct.francemusique.fr/live/francemusique-midfi.mp3",
+    "country": "FR"
+  },
+  "FIP": {
+    "url": "http://direct.fipradio.fr/live/fip-midfi.mp3",
+    "country": "FR"
+  },
+  "FIP Bordeaux": {
+    "url": "http://direct.fipradio.fr/live/fipbordeaux-midfi.mp3",
+    "country": "FR"
+  },
+  "FIP Nantes": {
+    "url": "http://direct.fipradio.fr/live/fipnantes-midfi.mp3",
+    "country": "FR"
+  },
+  "FIP  Strasbourg": {
+    "url": "http://direct.fipradio.fr/live/fipstrasbourg-midfi.mp3",
+    "country": "FR"
+  },
+  "Le Mouv": {
+    "url": "http://direct.mouv.fr/live/mouv-midfi.mp3",
+    "country": "FR"
+  },
+  "Alouette": {
+    "url": "https://alouette.ice.infomaniak.ch/alouette-high.mp3",
+    "country": "FR"
+  },
+  "Alouette nouveaux talents": {
+    "url": "https://alouettenouveauxtalents.ice.infomaniak.ch/alouettenouveauxtalents-128.mp3",
+    "country": "FR"
+  },
+  "Sensuelle Radio": {
+    "url": "http://188.165.215.158:9169",
+    "country": "FR"
+  },
+  "Sud radio": {
+    "url": "http://start-sud.ice.infomaniak.ch/start-sud-high.mp3",
+    "country": "FR"
+  },
+  "Teen Taal": {
+    "url": "http://s1.voscast.com:9484/",
+    "country": "FR"
+  },
+  "France Bleu Alsace": {
+    "url": "http://direct.francebleu.fr/live/fbalsace-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Armorique": {
+    "url": "http://direct.francebleu.fr/live/fbarmorique-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Auxerre": {
+    "url": "http://direct.francebleu.fr/live/fbauxerre-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Azur": {
+    "url": "http://direct.francebleu.fr/live/fbazur-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Basse-Normandie": {
+    "url": "http://direct.francebleu.fr/live/fbbassenormandie-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Béarn": {
+    "url": "http://direct.francebleu.fr/live/fbbearn-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Belfort": {
+    "url": "http://direct.francebleu.fr/live/fbbelfort-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Berry": {
+    "url": "http://direct.francebleu.fr/live/fbberry-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Besançon": {
+    "url": "http://direct.francebleu.fr/live/fbbesancon-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Bourgogne": {
+    "url": "http://direct.francebleu.fr/live/fbbourgogne-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Breiz Izel": {
+    "url": "http://direct.francebleu.fr/live/fbbreizizel-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Champagne": {
+    "url": "http://direct.francebleu.fr/live/fbchampagne-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Cotentin": {
+    "url": "http://direct.francebleu.fr/live/fbcotentin-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Creuse": {
+    "url": "http://direct.francebleu.fr/live/fbcreuse-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Drôme Ardèche": {
+    "url": "http://direct.francebleu.fr/live/fbdromeardeche-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Elsass": {
+    "url": "http://direct.francebleu.fr/live/Fbelsass-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Gard Lozère": {
+    "url": "http://direct.francebleu.fr/live/fbgardlozere-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Gascogne": {
+    "url": "http://direct.francebleu.fr/live/fbgascogne-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Gironde": {
+    "url": "http://direct.francebleu.fr/live/fbgironde-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Haute Normandie": {
+    "url": "http://direct.francebleu.fr/live/fbhautenormandie-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Herault": {
+    "url": "http://direct.francebleu.fr/live/fbherault-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu 107.1": {
+    "url": "http://direct.francebleu.fr/live/fb1071-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Isère": {
+    "url": "http://direct.francebleu.fr/live/fbisere-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu La Rochelle": {
+    "url": "http://direct.francebleu.fr/live/fblarochelle-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Limousin": {
+    "url": "http://direct.francebleu.fr/live/fblimousin-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Loire Océan": {
+    "url": "http://direct.francebleu.fr/live/fbloireocean-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Lorraine Nord": {
+    "url": "http://direct.francebleu.fr/live/fblorrainenord-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Maine": {
+    "url": "http://direct.francebleu.fr/live/fbmaine-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Mayenne": {
+    "url": "http://direct.francebleu.fr/live/fbmayenne-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Nord": {
+    "url": "http://direct.francebleu.fr/live/fbnord-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Orléans": {
+    "url": "http://direct.francebleu.fr/live/fborleans-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Pays Basque": {
+    "url": "http://direct.francebleu.fr/live/fbpaysbasque-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Pays d'Auvergne": {
+    "url": "http://direct.francebleu.fr/live/fbpaysdauvergne-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Pays de Savoie": {
+    "url": "http://direct.francebleu.fr/live/fbpaysdesavoie-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Périgord": {
+    "url": "http://direct.francebleu.fr/live/fbperigord-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Picardie": {
+    "url": "http://direct.francebleu.fr/live/fbpicardie-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Poitou": {
+    "url": "http://direct.francebleu.fr/live/fbpoitou-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Provence": {
+    "url": "http://direct.francebleu.fr/live/fbprovence-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu RCFM": {
+    "url": "http://direct.francebleu.fr/live/fbfrequenzamora-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Roussillon": {
+    "url": "http://direct.francebleu.fr/live/fbroussillon-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Saint Etienne Loire": {
+    "url": "http://direct.francebleu.fr/live/fbstetienne-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Sud Lorraine": {
+    "url": "http://direct.francebleu.fr/live/fbsudlorraine-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Toulouse": {
+    "url": "http://direct.francebleu.fr/live/fbtoulouse-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Touraine": {
+    "url": "http://direct.francebleu.fr/live/fbtouraine-midfi.mp3",
+    "country": "FR"
+  },
+  "France Bleu Vaucluse": {
+    "url": "http://direct.francebleu.fr/live/fbvaucluse-midfi.mp3",
+    "country": "FR"
+  },
+  "Puls Dance": {
+    "url": "http://www.pulsradio.com/pls/puls-adsl.m3u",
+    "country": "FR"
+  },
+  "Puls Trance": {
+    "url": "http://www.pulsradio.com/pls/pulstrance-adsl.m3u",
+    "country": "FR"
+  },
+  "Puls Club": {
+    "url": "http://www.pulsradio.com/club/pls/mxradio.m3u",
+    "country": "FR"
+  },
+  "Puls Lounge": {
+    "url": "http://www.pulsradio.com/pls/lounge.m3u",
+    "country": "FR"
+  },
+  "Puls Hits": {
+    "url": "http://www.pulsradio.com/hits/hitparty-adsl.m3u",
+    "country": "FR"
+  },
+  "Puls 80": {
+    "url": "http://www.pulsradio.com/pls/pulsV80-adsl.m3u",
+    "country": "FR"
+  },
+  "Puls 90": {
+    "url": "http://www.pulsradio.com/pls/pulsV90-adsl.m3u",
+    "country": "FR"
+  },
+  "Puls 2000": {
+    "url": "http://icecast.pulsradio.com:80/puls00HD.mp3",
+    "country": "FR"
+  },
+  "Puls Hard": {
+    "url": "http://www.pulsradio.com/pls/pulshard-adsl.m3u",
+    "country": "FR"
+  },
+  "Hotmix 80": {
+    "url": "http://streamingads.hotmixradio.fm/hotmixradio-80-64.mp3",
+    "country": "FR"
+  },
+  "Hotmix 90": {
+    "url": "http://streamingads.hotmixradio.fm/hotmixradio-90-64.mp3",
+    "country": "FR"
+  },
+  "Hotmix 2000": {
+    "url": "http://streamingads.hotmixradio.fm/hotmixradio-2k-64.mp3",
+    "country": "FR"
+  },
+  "Hotmix Baby": {
+    "url": "http://streamingads.hotmixradio.fm/hotmixradio-baby-64.mp3",
+    "country": "FR"
+  },
+  "Hotmix classic": {
+    "url": "https://streamingp.shoutcast.com/hotmixradio-classic-128.mp3",
+    "country": "FR"
+  },
+  "Hotmix cocktail": {
+    "url": "https://streamingp.shoutcast.com/hotmixradio-cocktail-128.mp3",
+    "country": "FR"
+  },
+  "Hotmix Dance": {
+    "url": "http://streamingads.hotmixradio.fm/hotmixradio-dance-64.mp3",
+    "country": "FR"
+  },
+  "Hotmix Fiesta": {
+    "url": "https://streamingp.shoutcast.com/hotmixradio-fiesta-128.mp3",
+    "country": "FR"
+  },
+  "Hotmix Frenchy": {
+    "url": "http://streamingads.hotmixradio.fm/hotmixradio-frenchy-64.mp3",
+    "country": "FR"
+  },
+  "Hotmix Funky": {
+    "url": "http://streamingads.hotmixradio.fm/hotmixradio-funky-64.mp3",
+    "country": "FR"
+  },
+  "Hotmix Golds": {
+    "url": "http://streamingads.hotmixradio.fm/hotmixradio-golds-64.mp3",
+    "country": "FR"
+  },
+  "Hotmix Hip-Hop": {
+    "url": "http://streamingads.hotmixradio.fm/hotmixradio-hiphop-64.mp3",
+    "country": "FR"
+  },
+  "Hotmix Hit": {
+    "url": "https://streamingp.shoutcast.com/hotmixradio-hits-128.mp3",
+    "country": "FR"
+  },
+  "Hotmix Info": {
+    "url": "https://streamingp.shoutcast.com/hotmixradio-infos-128.mp3",
+    "country": "FR"
+  },
+  "Hotmix Japan": {
+    "url": "http://streamingads.hotmixradio.fm/hotmixradio-japan-128.mp3",
+    "country": "FR"
+  },
+  "Hotmix Lounge": {
+    "url": "http://streamingads.hotmixradio.fm/hotmixradio-lounge-64.mp3",
+    "country": "FR"
+  },
+  "Hotmix Latino": {
+    "url": "https://streamingp.shoutcast.com/hotmixradio-latino-128.mp3",
+    "country": "FR"
+  },
+  "Hotmix Love": {
+    "url": "https://streamingp.shoutcast.com/hotmixradio-love-128.mp3",
+    "country": "FR"
+  },
+  "Hotmix New": {
+    "url": "http://streamingads.hotmixradio.fm/hotmixradio-new-64.mp3",
+    "country": "FR"
+  },
+  "Hotmix Noel": {
+    "url": "https://streamingp.shoutcast.com/hotmixradio-noel-128.mp3",
+    "country": "FR"
+  },
+  "Hotmix platinum": {
+    "url": "https://streamingp.shoutcast.com/hotmixradio-platinium-128.mp3",
+    "country": "FR"
+  },
+  "Hotmix Rock": {
+    "url": "http://streamingads.hotmixradio.fm/hotmixradio-rock-64.mp3",
+    "country": "FR"
+  },
+  "Hotmix Sport": {
+    "url": "https://streamingp.shoutcast.com/hotmixradio-sport-128.mp3",
+    "country": "FR"
+  },
+  "Hotmix Sunny": {
+    "url": "http://streamingads.hotmixradio.fm/hotmixradio-sunny-64.mp3",
+    "country": "FR"
+  },
+  "Hotmix Zen": {
+    "url": "https://streamingp.shoutcast.com/hotmixradio-zen-128.mp3",
+    "country": "FR"
+  },
+  "FG chic": {
+    "url": "http://radiofg.impek.com/fgc.mp3",
+    "country": "FR"
+  },
+  "FG Maxximum": {
+    "url": "https://radiofg.impek.com/max1.mp3",
+    "country": "FR"
+  },
+  "FG Deep Dance": {
+    "url": "http://radiofg.impek.com/fgd.mp3",
+    "country": "FR"
+  },
+  "FG Starter": {
+    "url": "http://radiofg.impek.com/fgv.mp3",
+    "country": "FR"
+  },
+  "FG at-work": {
+    "url": "https://radiofg.impek.com/fge.mp3",
+    "country": "FR"
+  },
+  "FG avant garde": {
+    "url": "https://radiofg.impek.com/ufg.mp3",
+    "country": "FR"
+  },
+  "FG mix": {
+    "url": "https://radiofg.impek.com/fg6.mp3",
+    "country": "FR"
+  },
+  "FG Nomade": {
+    "url": "http://radiofg.impek.com/fg13",
+    "country": "FR"
+  },
+  "FG Zen": {
+    "url": "https://radiofg.impek.com/fg17.mp3",
+    "country": "FR"
+  },
+  "FG xtra": {
+    "url": "http://radiofg.impek.com/fga",
+    "country": "FR"
+  },
+  "FG Maxximum 90": {
+    "url": "https://radiofg.impek.com/max2.mp3",
+    "country": "FR"
+  },
+  "Espace Lyon": {
+    "url": "http://radioespace.ice.infomaniak.ch/radioespace-high.mp3",
+    "country": "FR"
+  },
+  "Espace Club": {
+    "url": "http://espace100.ice.infomaniak.ch/espace100-high.mp3",
+    "country": "FR"
+  },
+  "Espace Dance 90": {
+    "url": "http://espace100.ice.infomaniak.ch/espace-disco-high.mp3",
+    "country": "FR"
+  },
+  "Espace Dancefloor": {
+    "url": "http://espace100.ice.infomaniak.ch/espace-dancefloor-high.mp3",
+    "country": "FR"
+  },
+  "Espace French touch": {
+    "url": "http://egwr-espace-001.ice.infomaniak.ch/egwr-espace-001.mp3",
+    "country": "FR"
+  },
+  "Espace Hot 30": {
+    "url": "http://espace100.ice.infomaniak.ch/espace-vintage-high.mp3",
+    "country": "FR"
+  },
+  "Espace Latino": {
+    "url": "http://egwr-espace-latino.ice.infomaniak.ch/egwr-espace-latino.mp3",
+    "country": "FR"
+  },
+  "Prysm Radio": {
+    "url": "http://listen.radionomy.com/prysmradio-mp3.m3u",
+    "country": "FR"
+  },
+  "Prysm 54": {
+    "url": "http://listen.shoutcast.com/prysm54.m3u",
+    "country": "FR"
+  },
+  "Prysm Dance Revival": {
+    "url": "http://listen.shoutcast.com/prysmdancerevival.m3u",
+    "country": "FR"
+  },
+  "Prysm Deep": {
+    "url": "http://listen.shoutcast.com/prysmdeep.m3u",
+    "country": "FR"
+  },
+  "Prysm Essentials": {
+    "url": "http://listen.shoutcast.com/prysmessentials.m3u",
+    "country": "FR"
+  },
+  "Prysm EDM": {
+    "url": "http://listen.shoutcast.com/prysmedm.m3u",
+    "country": "FR"
+  },
+  "Prysm Poolside": {
+    "url": "http://listen.shoutcast.com/poolside.m3u",
+    "country": "FR"
+  },
+  "Prysm Nu Disco": {
+    "url": "http://listen.shoutcast.com/prysmradionudisco.m3u",
+    "country": "FR"
+  },
+  "Prysm Stage": {
+    "url": "http://listen.shoutcast.com/prysmstage.m3u",
+    "country": "FR"
+  },
+  "Prysm Trance": {
+    "url": "http://listen.shoutcast.com/prysmtrance.m3u",
+    "country": "FR"
+  },
+  "DJ Mag Radio": {
+    "url": "http://listen.shoutcast.com/djmagradio.m3u",
+    "country": "FR"
+  },
+  "Balaton Sound": {
+    "url": "http://listen.shoutcast.com/balatonsound.m3u",
+    "country": "FR"
+  },
+  "Deepinside Radio Show": {
+    "url": "http://listen.shoutcast.com/deepinsideradioshow.m3u",
+    "country": "FR"
+  },
+  "Bob Sinclar Radio": {
+    "url": "http://listen.shoutcast.com/bobsinclarradio.m3u",
+    "country": "FR"
+  },
+  "ZeMixx Radio by Joachim Garraud": {
+    "url": "http://listen.shoutcast.com/zemixxradiobyjoachimgarraud.m3u",
+    "country": "FR"
+  },
+  "Latina": {
+    "url": "https://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
+    "country": "FR"
+  },
+  "Latina fiesta": {
+    "url": "https://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3",
+    "country": "FR"
+  },
+  "Latina salsa": {
+    "url": "https://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3",
+    "country": "FR"
+  },
+  "Latina reggaeton": {
+    "url": "https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3",
+    "country": "FR"
+  },
+  "Latina love": {
+    "url": "https://latinalove.ice.infomaniak.ch/latinalove.mp3",
+    "country": "FR"
+  },
+  "Latina kizomba": {
+    "url": "https://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3",
+    "country": "FR"
+  },
+  "Latina bachata": {
+    "url": "https://latinabachata.ice.infomaniak.ch/latinabachata.mp3",
+    "country": "FR"
+  },
+  "Latina work": {
+    "url": "https://latinawork.ice.infomaniak.ch/latinawork.mp3",
+    "country": "FR"
+  },
+  "Ouï FM": {
+    "url": "http://stream.ouifm.fr/ouifm-high.mp3",
+    "country": "FR"
+  },
+  "Ouï Acoustic": {
+    "url": "http://acoustic.stream.ouifm.fr/ouifmacoustic.mp3",
+    "country": "FR"
+  },
+  "Ouï Alternatif": {
+    "url": "http://alternatif.stream.ouifm.fr/ouifm2.mp3",
+    "country": "FR"
+  },
+  "Ouï Bluesnrock": {
+    "url": "http://bluesnrock.stream.ouifm.fr/ouifmbluesnrock-128.mp3",
+    "country": "FR"
+  },
+  "Ouï Bring the noise": {
+    "url": "http://bringthenoise.stream.ouifm.fr/ouifmbringthenoise.mp3",
+    "country": "FR"
+  },
+  "Ouï Collector": {
+    "url": "http://ouifm2.ice.infomaniak.ch/ouifm3.mp3",
+    "country": "FR"
+  },
+  "Ouï Classic rock": {
+    "url": "http://classicrock.stream.ouifm.fr/ouifm3.mp3",
+    "country": "FR"
+  },
+  "Ouï Generation Woodstock": {
+    "url": "http://woodstock.stream.ouifm.fr/ouifmwoodstock.mp3",
+    "country": "FR"
+  },
+  "Ouï Girls rock": {
+    "url": "http://girlsrock.stream.ouifm.fr/ouifmgirlsrock.mp3",
+    "country": "FR"
+  },
+  "Ouï Indépendant": {
+    "url": "http://ouifm2.ice.infomaniak.ch/ouifm5.mp3",
+    "country": "FR"
+  },
+  "Ouï Johnny": {
+    "url": "http://johnnyislive.stream.ouifm.fr/ouifmjohnnyislive.mp3",
+    "country": "FR"
+  },
+  "Ouï Radio Life": {
+    "url": "http://icepe11.infomaniak.ch/radiolife.mp3",
+    "country": "FR"
+  },
+  "Ouï Reggae": {
+    "url": "http://ganja.stream.ouifm.fr/ouifmganja-128.mp3",
+    "country": "FR"
+  },
+  "Ouï Rock60": {
+    "url": "http://rock60s.stream.ouifm.fr/ouifmsixties.mp3",
+    "country": "FR"
+  },
+  "Ouï Rock70": {
+    "url": "http://rock70s.stream.ouifm.fr/ouifmseventies.mp3",
+    "country": "FR"
+  },
+  "Ouï Rock80": {
+    "url": "http://rock80s.stream.ouifm.fr/ouifmeighties.mp3",
+    "country": "FR"
+  },
+  "Ouï Rock90": {
+    "url": "http://rock90s.stream.ouifm.fr/ouifmnineties.mp3",
+    "country": "FR"
+  },
+  "Ouï Rock 2000": {
+    "url": "http://rock2000.stream.ouifm.fr/ouifmrock2000.mp3",
+    "country": "FR"
+  },
+  "Ouï Rock Francais": {
+    "url": "http://rockfrancais.stream.ouifm.fr/ouifmrockfrancais.mp3",
+    "country": "FR"
+  },
+  "Ouï Rocknfood": {
+    "url": "http://rocknfood.stream.ouifm.fr/ouifmrocknfood.mp3",
+    "country": "FR"
+  },
+  "Ouï Rock Indés": {
+    "url": "http://rockinde.stream.ouifm.fr/ouifm5.mp3",
+    "country": "FR"
+  },
+  "Ouï Slows rock": {
+    "url": "http://slowrock.stream.ouifm.fr/ouifmslowrock.mp3",
+    "country": "FR"
+  },
+  "Ouï Summertime": {
+    "url": "http://summertime.stream.ouifm.fr/ouifmsummertime.mp3",
+    "country": "FR"
+  },
+  "Ouï Top week": {
+    "url": "http://topweek.stream.ouifm.fr/ouifmtopweek.mp3",
+    "country": "FR"
+  },
+  "Jazz radio nationale": {
+    "url": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+    "country": "FR"
+  },
+  "Jazz Afro": {
+    "url": "http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3",
+    "country": "FR"
+  },
+  "Jazz Black Music": {
+    "url": "http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3",
+    "country": "FR"
+  },
+  "Jazz Blues": {
+    "url": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
+    "country": "FR"
+  },
+  "Jazz Brazil": {
+    "url": "http://jzr-events-01.ice.infomaniak.ch/jzr-events-01.mp3",
+    "country": "FR"
+  },
+  "Jazz Christmas Jazz": {
+    "url": "http://jzr-events-01.ice.infomaniak.ch/jzr-events-01.mp3",
+    "country": "FR"
+  },
+  "Jazz Classic Jazz": {
+    "url": "http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Confluence": {
+    "url": "http://jzr-com-01.ice.infomaniak.ch/jzr-com-01.mp3",
+    "country": "FR"
+  },
+  "Jazz Contemporary Jazz": {
+    "url": "http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Electro Swing": {
+    "url": "http://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3",
+    "country": "FR"
+  },
+  "Jazzy French": {
+    "url": "http://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Funk": {
+    "url": "http://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Fusion": {
+    "url": "http://jazz-radio-fusion.ice.infomaniak.ch/jazz-radio-fusion.mp3",
+    "country": "FR"
+  },
+  "Jazz Gospel": {
+    "url": "http://jazz-wr07.ice.infomaniak.ch/jazz-wr07-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Groove": {
+    "url": "http://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Groov'Up": {
+    "url": "http://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Happy Hour": {
+    "url": "http://jazz-wr14.ice.infomaniak.ch/jazz-wr14-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Jazz + Cinema": {
+    "url": "http://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3",
+    "country": "FR"
+  },
+  "Jazz Jazz + Classique": {
+    "url": "http://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Jazzy French": {
+    "url": "http://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Laddie + Crooners": {
+    "url": "http://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.mp3",
+    "country": "FR"
+  },
+  "Jazz Latin Jazz": {
+    "url": "http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Lounge": {
+    "url": "http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3",
+    "country": "FR"
+  },
+  "Jazz Manouche": {
+    "url": "http://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3",
+    "country": "FR"
+  },
+  "Jazz New Orleans": {
+    "url": "http://jazz-wr03.ice.infomaniak.ch/jazz-wr03-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Nouveautés Jazz": {
+    "url": "http://jzr-wr99.ice.infomaniak.ch/jzr-wr99.mp3",
+    "country": "FR"
+  },
+  "Jazz Nouveautés Soul": {
+    "url": "http://jzr-wr19.ice.infomaniak.ch/jzr-wr19-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Only Women": {
+    "url": "http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Piano Jazz": {
+    "url": "http://jzr-piano.ice.infomaniak.ch/jzr-piano.mp3",
+    "country": "FR"
+  },
+  "Jazz Reprises": {
+    "url": "http://reprises.ice.infomaniak.ch/reprises-high.mp3",
+    "country": "FR"
+  },
+  "Jazz Saxo": {
+    "url": "http://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3",
+    "country": "FR"
+  },
+  "Jazz Sly Johnson": {
+    "url": "http://jazz-thema.ice.infomaniak.ch/jazz-thema.mp3",
+    "country": "FR"
+  },
+  "Jazz Soul": {
+    "url": "http://jazz-wr10.ice.infomaniak.ch/jazz-wr10-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Soul Food": {
+    "url": "http://jazz-wr12.ice.infomaniak.ch/jazz-wr12-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Stax And Motown": {
+    "url": "http://jazz-wr15.ice.infomaniak.ch/jazz-wr15-128.mp3",
+    "country": "FR"
+  },
+  "Jazz Sunset": {
+    "url": "http://jzr-sunset.ice.infomaniak.ch/jzr-sunset.mp3",
+    "country": "FR"
+  },
+  "Jazz Valentine's Day": {
+    "url": "http://jazz-thema.ice.infomaniak.ch/jazz-thema.aac",
+    "country": "FR"
+  },
+  "Jazz Zen Attitude": {
+    "url": "http://zen-attitude.ice.infomaniak.ch/zen-attitude.mp3",
+    "country": "FR"
+  },
+  "Chérie 100 Plus Belles Musiques": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/30219/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie 80": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30237/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie 90": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30239/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Acoustic": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30269/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie a la maison": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57166/aac_64.mp3",
+    "country": "FR"
+  },
+  "Chérie At Work": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30215/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Ballads": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30297/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Heros": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57187/aac_64.mp3",
+    "country": "FR"
+  },
+  "Chérie Céline Dion": {
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/55507/aac_64.mp3",
+    "country": "FR"
+  },
+  "Chérie Coeur Brisé": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56303/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Emotions": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30313/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Fitness": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30283/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Frenchy": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30213/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Happy": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30331/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Italie": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30219/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Jazzy": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30241/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Jean Jacques Goldman": {
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/55562/aac_64.mp3",
+    "country": "FR"
+  },
+  "Chérie Latino": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30247/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Les Plus Belles Voix": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30317/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Love Songs": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30207/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Noel": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57033/aac_64.mp3",
+    "country": "FR"
+  },
+  "Chérie No Repeat": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30295/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Nouveautés": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30255/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Party": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30261/mp3_128.mp3?",
+    "country": "FR"
+  },
+  "Chérie Plus Belle Musique": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56237/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "Chérie Pop": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30227/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie RnB Chic": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30275/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Romantic": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30287/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Running": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55648/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Sweet Home": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30289/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Zen": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30203/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Chérie Zodiaque": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/56978/aac_64.mp3",
+    "country": "FR"
+  },
+  "Nostalgie 80 Les No.1": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56726/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "Nostalgie 100% Français 80": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56164/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie 100 Plus Grandes Chansons": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30627/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "Nostalgie Best of 60s": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30615/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Best of 70s": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30613/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Best of 80s": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30605/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Best of 90s": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55206/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "Nostalgie Blues": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30639/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Chansons Françaises": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30611/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Dance Party 90": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55205/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "Nostalgie Disco Fever": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30617/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Fans des Années 80": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56373/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Funk": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30607/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Génération 80": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55524/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Italia": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30663/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Jazz": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30641/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "Nostalgie Légendes": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55196/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Les Plus Grands Slows": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30609/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Les plus grands tubes Français": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30705/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Maxi 45T Funk": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56937/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "Nostalgie Mini Mix de Max": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56955/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "Nostalgie New Wave": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30703/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Poètes": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30619/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Pop Rock 80": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56718/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "Nostalgie Rock": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30621/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Route 66": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56040/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Saturday Night": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30773/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie Soul": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56953/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "Nostalgie tous les tubes tous les styles": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30699/mp3_128.mp3",
+    "country": "FR"
+  },
+  "Nostalgie USA 80": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56621/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "RFM 70's": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr16.aac",
+    "country": "FR"
+  },
+  "RFM 80": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr4.aac",
+    "country": "FR"
+  },
+  "RFM 100% femmes": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr2.aac",
+    "country": "FR"
+  },
+  "RFM 100% français": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr11.aac",
+    "country": "FR"
+  },
+  "RFM Christmas": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr8.aac",
+    "country": "FR"
+  },
+  "RFM Cinéma": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr15.aac",
+    "country": "FR"
+  },
+  "RFM Collector": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr1.aac",
+    "country": "FR"
+  },
+  "RFM Hommage Johnny": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr14.aac",
+    "country": "FR"
+  },
+  "RFM Le Hit": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr7.aac",
+    "country": "FR"
+  },
+  "RFM Lounge": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr6.aac",
+    "country": "FR"
+  },
+  "RFM New Wave": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr12.aac",
+    "country": "FR"
+  },
+  "RFM Night Fever": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr3.aac",
+    "country": "FR"
+  },
+  "RFM Party 90": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr5.aac",
+    "country": "FR"
+  },
+  "RFM Pop Rock": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr10.aac",
+    "country": "FR"
+  },
+  "RFM Run Fit": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr9.aac",
+    "country": "FR"
+  },
+  "RFM Slow": {
+    "url": "https://ais-live.cloud-services.paris:8443/rfm-wr13.aac",
+    "country": "FR"
+  },
+  "Voltage": {
+    "url": "http://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3",
+    "country": "FR"
+  },
+  "Voltage 2000": {
+    "url": "http://voltage2000.bcast.infomaniak.ch/voltage2000-128.mp3",
+    "country": "FR"
+  },
+  "Voltage 80s": {
+    "url": "http://voltage80s.bcast.infomaniak.ch/voltage80s-128.mp3",
+    "country": "FR"
+  },
+  "Voltage 90s": {
+    "url": "http://voltage90s.bcast.infomaniak.ch/voltage90s-128.mp3",
+    "country": "FR"
+  },
+  "Voltage work": {
+    "url": "http://voltagework.bcast.infomaniak.ch/voltagework-128.mp3",
+    "country": "FR"
+  },
+  "Voltage club": {
+    "url": "http://voltageclub.bcast.infomaniak.ch/voltageclub-128.mp3",
+    "country": "FR"
+  },
+  "Voltage lounge": {
+    "url": "http://voltagelounge.bcast.infomaniak.ch/voltagelounge-128.mp3",
+    "country": "FR"
+  },
+  "Voltage en Francais": {
+    "url": "https://voltageenfrancais.ice.infomaniak.ch/voltageenfrancais-128.mp3",
+    "country": "FR"
+  },
+  "Voltage Love": {
+    "url": "http://voltagelove.bcast.infomaniak.ch/voltagelove-128.mp3",
+    "country": "FR"
+  },
+  "Virgin la nouvelle scène": {
+    "url": "https://ais-live.cloud-services.paris:8443/vr-wr8.aac",
+    "country": "FR"
+  },
+  "Virgin by Perrier": {
+    "url": "https://ais-live.cloud-services.paris:8443/vr-wr7.aac",
+    "country": "FR"
+  },
+  "Virgin Classics": {
+    "url": "https://ais-live.cloud-services.paris:8443/vr-wr2.aac",
+    "country": "FR"
+  },
+  "Virgin Electro Shock": {
+    "url": "https://ais-live.cloud-services.paris:8443/vr-wr3.aac",
+    "country": "FR"
+  },
+  "Virgin Hit": {
+    "url": "https://ais-live.cloud-services.paris:8443/vr-wr4.aac",
+    "country": "FR"
+  },
+  "Virgin New": {
+    "url": "https://ais-live.cloud-services.paris:8443/vr-wr1.aac",
+    "country": "FR"
+  },
+  "Virgin Rock": {
+    "url": "https://ais-live.cloud-services.paris:8443/vr-wr5.aac",
+    "country": "FR"
+  },
+  "Virgin Tonic": {
+    "url": "https://ais-live.cloud-services.paris:8443/vr-wr6.aac",
+    "country": "FR"
+  },
+  "Chante France 60's": {
+    "url": "http://stream1.chantefrance.com/cf-60",
+    "country": "FR"
+  },
+  "Chante France 70's": {
+    "url": "http://stream1.chantefrance.com/cf-70",
+    "country": "FR"
+  },
+  "Chante France 80's": {
+    "url": "http://stream1.chantefrance.com/cf-80",
+    "country": "FR"
+  },
+  "Chante France Nouveautés": {
+    "url": "http://stream.chantefrance.com/cf-nouveautes.aac",
+    "country": "FR"
+  },
+  "Chante France Emotion": {
+    "url": "http://stream1.chantefrance.com/cf-emotion",
+    "country": "FR"
+  },
+  "M Radio": {
+    "url": "http://mfm.ice.infomaniak.ch/mfm-128.mp3",
+    "country": "FR"
+  },
+  "M années 60 70": {
+    "url": "http://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3",
+    "country": "FR"
+  },
+  "M années 80": {
+    "url": "http://mfmwr-010.ice.infomaniak.ch/mfmwr-010.mp3",
+    "country": "FR"
+  },
+  "M années 90": {
+    "url": "http://mfm-thema.ice.infomaniak.ch/mfm-thema.mp3",
+    "country": "FR"
+  },
+  "M années 2000": {
+    "url": "http://mfmwr-020.ice.infomaniak.ch/mfmwr-020.mp3",
+    "country": "FR"
+  },
+  "M C'est Noël": {
+    "url": "http://mwr_thema.ice.infomaniak.ch/mwr-thema.mp3",
+    "country": "FR"
+  },
+  "M Chansons d'amour": {
+    "url": "http://mfmwr-026.ice.infomaniak.ch/mfmwr-026.mp3",
+    "country": "FR"
+  },
+  "M Radio Culte Années 60 et 70": {
+    "url": "http://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3",
+    "country": "FR"
+  },
+  "M Radio Dessins Animés": {
+    "url": "http://mfmwr-002.ice.infomaniak.ch/mfmwr-002.mp3",
+    "country": "FR"
+  },
+  "M Radio Duos": {
+    "url": "http://mfmwr-015.ice.infomaniak.ch/mfmwr-015.mp3",
+    "country": "FR"
+  },
+  "M Radio Fitness": {
+    "url": "http://mfmwr-004.ice.infomaniak.ch/mfmwr-004.mp3",
+    "country": "FR"
+  },
+  "M Radio Francophonie": {
+    "url": "http://mfmwr-018.ice.infomaniak.ch/mfmwr-018.mp3",
+    "country": "FR"
+  },
+  "M Radio French Touch": {
+    "url": "http://mfmwr-003.ice.infomaniak.ch/mfmwr-003.mp3",
+    "country": "FR"
+  },
+  "M Radio Génériques TV": {
+    "url": "http://mfmwr-021.ice.infomaniak.ch/mfmwr-021.mp3",
+    "country": "FR"
+  },
+  "M Radio Karaoké": {
+    "url": "http://mfmwr-028.ice.infomaniak.ch/mfmwr-028.mp3",
+    "country": "FR"
+  },
+  "M Radio Live": {
+    "url": "http://mfmwr-008.ice.infomaniak.ch/mfmwr-008.mp3",
+    "country": "FR"
+  },
+  "M Radio No.1 du Top 50": {
+    "url": "http://mfmwr-007.ice.infomaniak.ch/mfmwr-007.mp3",
+    "country": "FR"
+  },
+  "M Radio Nouveautés": {
+    "url": "http://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3",
+    "country": "FR"
+  },
+  "M Radio Nouvelle Scène": {
+    "url": "http://mfmwr-012.ice.infomaniak.ch/mfmwr-012.mp3",
+    "country": "FR"
+  },
+  "M Radio Pop": {
+    "url": "http://mfmwr-025.ice.infomaniak.ch/mfmwr-025.mp3",
+    "country": "FR"
+  },
+  "M Radio Séducteurs": {
+    "url": "http://mfmwr-017.ice.infomaniak.ch/mfmwr-017.mp3",
+    "country": "FR"
+  },
+  "M Radio Top 50": {
+    "url": "http://mfmwr-007.ice.infomaniak.ch/mfmwr-007.mp3",
+    "country": "FR"
+  },
+  "M Radio Tubes du Grenier": {
+    "url": "http://mfmwr-001.ice.infomaniak.ch/mfmwr-001.mp3",
+    "country": "FR"
+  },
+  "M Radio Voix du Sud": {
+    "url": "http://voix-du-sud.ice.infomaniak.ch/voix-du-sud.mp3",
+    "country": "FR"
+  },
+  "M Radio Voix Féminines": {
+    "url": "http://mfmwr-013.ice.infomaniak.ch/mfmwr-013.mp3",
+    "country": "FR"
+  },
+  "M Radio Yéyé": {
+    "url": "http://mfmwr-009.ice.infomaniak.ch/mfmwr-009.mp3",
+    "country": "FR"
+  },
+  "M Radio 100% Céline Dion": {
+    "url": "http://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3",
+    "country": "FR"
+  },
+  "M Radio 100% Comédies Musicales": {
+    "url": "http://mfmwr-014.ice.infomaniak.ch/mfmwr-014.mp3",
+    "country": "FR"
+  },
+  "M Radio 100% Enfoirés": {
+    "url": "http://mfmwr-011.ice.infomaniak.ch/mfmwr-011.mp3",
+    "country": "FR"
+  },
+  "M Radio 100% Goldman": {
+    "url": "http://mfmwr-016.ice.infomaniak.ch/mfmwr-016.mp3",
+    "country": "FR"
+  },
+  "M Radio 100% Johnny": {
+    "url": "http://mfmwr-006.ice.infomaniak.ch/mfmwr-006.mp3",
+    "country": "FR"
+  },
+  "Futuradio Dance": {
+    "url": "https://stream.futuradios.com/dance.mp3",
+    "country": "FR"
+  },
+  "Futuradio Hits": {
+    "url": "https://stream.futuradios.com/sweet.mp3",
+    "country": "FR"
+  },
+  "Futuradio Pop & Sweet": {
+    "url": "http://ice1.impek.com/futuradiospopsweet-128",
+    "country": "FR"
+  },
+  "Futuradio Rock": {
+    "url": "https://stream.futuradios.com/rock.mp3",
+    "country": "FR"
+  },
+  "Futuradio Urban": {
+    "url": "https://stream.futuradios.com/urban.mp3",
+    "country": "FR"
+  },
+  "Vibration": {
+    "url": "http://live-reflector.infomaniak.ch/vibration-high.aac",
+    "country": "FR"
+  },
+  "Vibration vintage": {
+    "url": "http://live-reflector.infomaniak.ch/vibration-vintage.mp3",
+    "country": "FR"
+  },
+  "Vibration 108": {
+    "url": "http://live-reflector.infomaniak.ch/vibration108-high.mp3",
+    "country": "FR"
+  },
+  "Vibration 2000": {
+    "url": "http://live-reflector.infomaniak.ch/vibration2000.aac",
+    "country": "FR"
+  },
+  "Vibration 80s": {
+    "url": "http://live-reflector.infomaniak.ch/vibration80s.aac",
+    "country": "FR"
+  },
+  "Vibration 90s": {
+    "url": "http://live-reflector.infomaniak.ch/vibration90s.aac",
+    "country": "FR"
+  },
+  "Vibration Belgique": {
+    "url": "http://live-reflector.infomaniak.ch/vibrationbelgique-high.mp3",
+    "country": "FR"
+  },
+  "Vibration Club": {
+    "url": "http://vibrationclub.ice.infomaniak.ch/vibrationclub.mp3",
+    "country": "FR"
+  },
+  "Vibration latina": {
+    "url": "http://live-reflector.infomaniak.ch/vibrationclub.aac",
+    "country": "FR"
+  },
+  "Vibration lounge": {
+    "url": "http://live-reflector.infomaniak.ch/vibrationlounge.aac",
+    "country": "FR"
+  },
+  "Vibration love": {
+    "url": "http://live-reflector.infomaniak.ch/vibrationlove.aac",
+    "country": "FR"
+  },
+  "Vibration work": {
+    "url": "http://live-reflector.infomaniak.ch/vibrationwork.aac",
+    "country": "FR"
+  },
+  "Vibration en français": {
+    "url": "https://vibrationenfrancais.ice.infomaniak.ch/vibrationenfrancais-128.mp3",
+    "country": "FR"
+  },
+  "100% 80s": {
+    "url": "http://icepe14.infomaniak.ch/100radio-80-128.mp3",
+    "country": "FR"
+  },
+  "100% 90s": {
+    "url": "http://icepe14.infomaniak.ch/100radio-90-64.aac",
+    "country": "FR"
+  },
+  "100% hit": {
+    "url": "http://icepe14.infomaniak.ch/100radio-hit-128.mp3",
+    "country": "FR"
+  },
+  "100% love": {
+    "url": "http://icepe14.infomaniak.ch/100radio-love-128.mp3",
+    "country": "FR"
+  },
+  "100% souvenirs": {
+    "url": "http://icepe14.infomaniak.ch/100radio-souvenirs-128.mp3",
+    "country": "FR"
+  },
+  "100% Summer hit": {
+    "url": "http://100radio-mtbville.ice.infomaniak.ch/100radio-summerhit-128.mp3",
+    "country": "FR"
+  },
+  "Wit": {
+    "url": "http://icepe14.infomaniak.ch/start-witfm-high.mp3",
+    "country": "FR"
+  },
+  "Wit 2000": {
+    "url": "http://icepe14.infomaniak.ch/wit2000.mp3",
+    "country": "FR"
+  },
+  "Wit 80": {
+    "url": "http://icepe14-2.infomaniak.ch/wit80s.mp3",
+    "country": "FR"
+  },
+  "Wit 90": {
+    "url": "http://icepe14.infomaniak.ch/wit90s.mp3",
+    "country": "FR"
+  },
+  "Wit club": {
+    "url": "http://icepe14.infomaniak.ch/witclub.mp3",
+    "country": "FR"
+  },
+  "Wit latina": {
+    "url": "http://icepe14.infomaniak.ch/witlatina.mp3",
+    "country": "FR"
+  },
+  "Wit lounge": {
+    "url": "http://icepe14.infomaniak.ch/witlounge.mp3",
+    "country": "FR"
+  },
+  "Wit love": {
+    "url": "http://icepe14.infomaniak.ch/witlove.mp3",
+    "country": "FR"
+  },
+  "Wit en francais": {
+    "url": "http://icepe14.infomaniak.ch/witenfrancais-128.mp3",
+    "country": "FR"
+  },
+  "Wit work": {
+    "url": "http://icepe14.infomaniak.ch/witwork.mp3",
+    "country": "FR"
+  },
+  "Fréquence 3 Dance": {
+    "url": "https://frequence3.net-radio.fr/frequence3dance.flac",
+    "country": "FR"
+  },
+  "Fréquence 3 Gold": {
+    "url": "https://frequence3.net-radio.fr/frequence3gold.flac",
+    "country": "FR"
+  },
+  "Fréquence 3 Urban": {
+    "url": "https://frequence3.net-radio.fr/frequence3urban.flac",
+    "country": "FR"
+  },
+  "Fréquence 3 World": {
+    "url": "https://frequence3.net-radio.fr/frequence3world.flac",
+    "country": "FR"
+  },
+  "Forum": {
+    "url": "https://start-forum.ice.infomaniak.ch/start-forum-high.mp3",
+    "country": "FR"
+  },
+  "Forum 70s": {
+    "url": "http://icepe14.infomaniak.ch/forum70s.mp3",
+    "country": "FR"
+  },
+  "Forum 80s": {
+    "url": "http://icepe1.infomaniak.ch/forum80s.mp3",
+    "country": "FR"
+  },
+  "Forum 90s": {
+    "url": "http://icepe14.infomaniak.ch/forum90s.mp3",
+    "country": "FR"
+  },
+  "Forum work": {
+    "url": "http://icepe14.infomaniak.ch/forumwork.mp3",
+    "country": "FR"
+  },
+  "Forum live": {
+    "url": "http://icepe14.infomaniak.ch/forumlive.mp3",
+    "country": "FR"
+  },
+  "Forum love": {
+    "url": "http://icepe14.infomaniak.ch/forumlove.mp3",
+    "country": "FR"
+  },
+  "Forum 2000": {
+    "url": "http://icepe14.infomaniak.ch/forum2000.mp3",
+    "country": "FR"
+  },
+  "Forum en francais": {
+    "url": "http://icepe14.infomaniak.ch/forumenfrancais-128.mp3",
+    "country": "FR"
+  },
+  "Scoop 100% Francais": {
+    "url": "https://scoopfrance.ice.infomaniak.ch/radioscoop-france-64.aac",
+    "country": "FR"
+  },
+  "Scoop 80's": {
+    "url": "https://scoopannees80.ice.infomaniak.ch/radioscoop-annees80-64.aac",
+    "country": "FR"
+  },
+  "Scoop 90's": {
+    "url": "https://radioscoopannees90.ice.infomaniak.ch/radioscoop-annees90-64.aac",
+    "country": "FR"
+  },
+  "Scoop 2000": {
+    "url": "https://radioscoopannees2000.ice.infomaniak.ch/radioscoop-annees2000-64.aac",
+    "country": "FR"
+  },
+  "Scoop 2010": {
+    "url": "https://scoopannees2010.ice.infomaniak.ch/radioscoop-annees2010-64.aac",
+    "country": "FR"
+  },
+  "Scoop Ciné": {
+    "url": "https://scoopmusiquesdefilms.ice.infomaniak.ch/radioscoop-musiquesdefilms-64.aac",
+    "country": "FR"
+  },
+  "Scoop Girl power": {
+    "url": "https://scoopgirls.ice.infomaniak.ch/radioscoop-girls-64.aac",
+    "country": "FR"
+  },
+  "Scoop Jazzy": {
+    "url": "https://scoopjazzy.ice.infomaniak.ch/radioscoop-jazzy-64.aac",
+    "country": "FR"
+  },
+  "Scoop Kids": {
+    "url": "https://scoopscoopy.ice.infomaniak.ch/radioscoop-scoopy-64.aac",
+    "country": "FR"
+  },
+  "Scoop Kitch": {
+    "url": "https://scoopkitsch.ice.infomaniak.ch/radioscoop-kitsch-64.aac",
+    "country": "FR"
+  },
+  "Scoop Latino": {
+    "url": "https://scooplatino.ice.infomaniak.ch/radioscoop-latino-64.aac",
+    "country": "FR"
+  },
+  "Scoop Love": {
+    "url": "https://scoopinlove.ice.infomaniak.ch/radioscoop-inlove-64.aac",
+    "country": "FR"
+  },
+  "Scoop Noel": {
+    "url": "https://scoopnoel.ice.infomaniak.ch/radioscoop-noel-64.aac",
+    "country": "FR"
+  },
+  "Scoop Pop rock": {
+    "url": "https://scooprock.ice.infomaniak.ch/radioscoop-rock-64.aac",
+    "country": "FR"
+  },
+  "Scoop Power Dance": {
+    "url": "https://scooppowerdance.ice.infomaniak.ch/radioscoop-powerdance-64.aac",
+    "country": "FR"
+  },
+  "Scoop Playlist": {
+    "url": "https://scoopplaylist.ice.infomaniak.ch/radioscoop-playlist-64.aac",
+    "country": "FR"
+  },
+  "Scoop Rap": {
+    "url": "https://scooprap.ice.infomaniak.ch/radioscoop-rap-64.aac",
+    "country": "FR"
+  },
+  "Scoop Run": {
+    "url": "https://scooprun.ice.infomaniak.ch/radioscoop-run-64.aac",
+    "country": "FR"
+  },
+  "RC a la maison": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57171/aac_64.mp3",
+    "country": "FR"
+  },
+  "RC Blagues": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30411/mp3_128.mp3",
+    "country": "FR"
+  },
+  "RC Canulars": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30413/mp3_128.mp3",
+    "country": "FR"
+  },
+  "RC Chansons Droles": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56786/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "RC Collectors": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30421/mp3_128.mp3",
+    "country": "FR"
+  },
+  "RC Duos": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55601/mp3_128.mp3",
+    "country": "FR"
+  },
+  "RC Francophonie": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57107/aac_64.mp3",
+    "country": "FR"
+  },
+  "RC Futurs Talents": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55818/mp3_128.mp3",
+    "country": "FR"
+  },
+  "RC Heros": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57188/aac_64.mp3",
+    "country": "FR"
+  },
+  "RC Hommage à coluche": {
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/55670/aac_64.mp3",
+    "country": "FR"
+  },
+  "RC Humour du Sud": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55514/mp3_128.mp3",
+    "country": "FR"
+  },
+  "RC Live": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30409/mp3_128.mp3",
+    "country": "FR"
+  },
+  "RC Nouvelle Generation": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30405/mp3_128.mp3",
+    "country": "FR"
+  },
+  "RC One Woman Show": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55576/mp3_128.mp3",
+    "country": "FR"
+  },
+  "RC Open du Rire": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30443/mp3_128.mp3",
+    "country": "FR"
+  },
+  "RC Semoun": {
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/30427/aac_64.mp3",
+    "country": "FR"
+  },
+  "RC Sketches": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30407/mp3_128.mp3",
+    "country": "FR"
+  },
+  "RC Stand Up": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30417/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Acoustic Hits": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30157/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ All Hits All Styles": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31149/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Artiste masculin francophone": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/56988/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Artiste masculin international": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/56989/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Artiste féminine francaise": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/56991/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Artiste féminine international": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/56987/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ At Home": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31011/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ At Work": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30033/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Best Hits Ever": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31251/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ BTS": {
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/56365/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ C'Cauet": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30097/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "NRJ Caliente": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56329/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Chanson internationale": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/56992/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Chill": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55530/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Classic Rap FR": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55189/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Classic Rap US": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31093/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Classic RNB": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31095/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Classic Rock": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31097/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Club Hits": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31073/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "NRJ Clubbin": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30017/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Dance": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30013/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Dance 90": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31099/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Dance Hits": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31131/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Deep House": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31437/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Discover": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30137/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ DJ de l'année": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/56993/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ EDM": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31419/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Electro": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55135/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "NRJ En mode Noel": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/55372/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ EuroHot 30": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31407/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Extravadance": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30027/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Fiesta": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31247/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Fiesta Latina": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55210/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Fitness": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30007/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Fitness Cardio": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56808/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "NRJ French Hits": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30037/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Fresh Rap FR": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31555/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Funky": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31035/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Futurs Hits 2020": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56732/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "NRJ Gangsta Rap": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31081/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Happy Confinement": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57179/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Happy Hits": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55127/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Hardstyle": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56708/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "NRJ Heros": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57186/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Hip Hop RNB Hits": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31559/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Hits": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30043/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Hits 80": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55548/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "NRJ Hits 90": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55274/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Hits 90 by Play": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57056/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Hits For Running": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30057/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Hits Remix": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31019/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Jul": {
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/31495/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Kizomba": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31523/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ La Playlist 100% Hits Français": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56699/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "NRJ La Playlist 2000": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55275/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ La Playlist 2010": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55535/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ La Playlist du 31": {
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/55498/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Latino": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30077/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Latino Hits": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31409/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ le Top 10 du jour": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/56657/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ les gagnants Music Awards": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/31373/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Les Hits de L'Hiver": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/56979/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Le Hit Youtube": {
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/31087/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Les Hits du Zodiaque": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/56963/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Lounge": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30049/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Love": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30081/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Mad mix": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57174/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Made In France": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31217/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Manu dans le 6-9": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30103/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Maitre Gims": {
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/31297/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Metal": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30079/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Music Awards": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/56983/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ New Hits Friday": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56230/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ New Menage de printemps": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57203/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ No Repeat": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31005/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "NRJ Noel à l'ancienne": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57037/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Noel nouvelle génération": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57038/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Nouveautés": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30023/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Nouveautes Françaises": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55656/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Oriental": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31079/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Party Hits": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30063/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Pop RNB Dance": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31489/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Pop Rock": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56720/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "NRJ Pour le Sport": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55513/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Pure Hits Only": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31503/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Rai": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30133/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Rap": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56702/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "NRJ Rap FR": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30059/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Rap US": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30061/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Reggae": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30075/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Reggaeton": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31023/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Relax": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31161/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Remember That": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56388/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Révélation internationale": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/56985/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Rihanna hits": {
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/30029/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ RNB": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30011/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ RNB FR": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30171/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Rock": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30055/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Romantic": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30191/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Sentimental": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31277/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Soprano": {
+    "url": "https://scdn.nrjaudio.fm/audio1/fr/31473/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Techno Story": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/56429/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "NRJ Teletravail": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57161/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Top 10 du jour": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/56657/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Top 100 2019": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57049/aac_64.mp3",
+    "country": "FR"
+  },
+  "NRJ Tous Schuss": {
+    "url": "https://scdn.nrjaudio.fm/adwz1/fr/57096/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Urban Hits": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30099/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ US Top 40": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31513/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Varité Française": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/55684/mp3_128.mp3",
+    "country": "FR"
+  },
+  "NRJ Waze": {
+    "url": "http://cdn.nrjaudio.fm/audio1/fr/56897/mp3_128.mp3?origine=fluxradios",
+    "country": "FR"
+  },
+  "NRJ Zouk": {
+    "url": "http://cdn.nrjaudio.fm/adwz1/fr/30085/mp3_128.mp3",
+    "country": "FR"
+  },
+  "AllZic 50": {
+    "url": "http://allzic29.ice.infomaniak.ch/allzic29.mp3",
+    "country": "FR"
+  },
+  "AllZic 70": {
+    "url": "http://allzic50.ice.infomaniak.ch/allzic50.mp3",
+    "country": "FR"
+  },
+  "AllZic 80": {
+    "url": "http://allzic08.ice.infomaniak.ch/allzic08.mp3",
+    "country": "FR"
+  },
+  "AllZic 90": {
+    "url": "http://allzic24.ice.infomaniak.ch/allzic24.mp3",
+    "country": "FR"
+  },
+  "AllZic Africa": {
+    "url": "http://allzic49.ice.infomaniak.ch/allzic51.mp3",
+    "country": "FR"
+  },
+  "AllZic Annee 2000": {
+    "url": "http://allzic49.ice.infomaniak.ch/allzic49.mp3",
+    "country": "FR"
+  },
+  "AllZic Black Music": {
+    "url": "http://allzic04.ice.infomaniak.ch/allzic04.mp3",
+    "country": "FR"
+  },
+  "AllZic Blues": {
+    "url": "http://allzic09.ice.infomaniak.ch/allzic09.mp3",
+    "country": "FR"
+  },
+  "AllZic Brazil": {
+    "url": "http://allzic19.ice.infomaniak.ch/allzic19.mp3",
+    "country": "FR"
+  },
+  "AllZic Chill Out": {
+    "url": "http://allzic53.ice.infomaniak.ch/allzic53.mp3",
+    "country": "FR"
+  },
+  "AllZic Classic": {
+    "url": "http://allzic06.ice.infomaniak.ch/allzic06.mp3",
+    "country": "FR"
+  },
+  "AllZic Classic Piano": {
+    "url": "http://allzic47.ice.infomaniak.ch/allzic47.mp3",
+    "country": "FR"
+  },
+  "AllZic Classic Violon": {
+    "url": "http://allzic48.ice.infomaniak.ch/allzic48.mp3",
+    "country": "FR"
+  },
+  "AllZic Comedie Musicale": {
+    "url": "http://allzic46.ice.infomaniak.ch/allzic46.mp3",
+    "country": "FR"
+  },
+  "AllZic Comptines": {
+    "url": "http://allzic05.ice.infomaniak.ch/allzic05.mp3",
+    "country": "FR"
+  },
+  "AllZic Country": {
+    "url": "http://allzic32.ice.infomaniak.ch/allzic32.mp3",
+    "country": "FR"
+  },
+  "AllZic Dancefloor": {
+    "url": "http://allzic07.ice.infomaniak.ch/allzic07.mp3",
+    "country": "FR"
+  },
+  "AllZic Deep Disco": {
+    "url": "http://allzic31.ice.infomaniak.ch/allzic31.mp3",
+    "country": "FR"
+  },
+  "AllZic Disco": {
+    "url": "http://allzic36.ice.infomaniak.ch/allzic36.mp3",
+    "country": "FR"
+  },
+  "AllZic Disney": {
+    "url": "http://allzic52.ice.infomaniak.ch/allzic52.mp3",
+    "country": "FR"
+  },
+  "AllZic Electro chillout": {
+    "url": "http://allzic57.ice.infomaniak.ch/allzic57.mp3",
+    "country": "FR"
+  },
+  "AllZic Enfant 0-4 ans": {
+    "url": "http://allzic14.ice.infomaniak.ch/allzic14.mp3",
+    "country": "FR"
+  },
+  "AllZic Enfant 4-7 ans": {
+    "url": "http://allzic15.ice.infomaniak.ch/allzic15.mp3",
+    "country": "FR"
+  },
+  "AllZic Enfant 7-12 ans": {
+    "url": "http://allzic16.ice.infomaniak.ch/allzic16.mp3",
+    "country": "FR"
+  },
+  "AllZic Enfoirés": {
+    "url": "http://allzic12.ice.infomaniak.ch/allzic12.mp3",
+    "country": "FR"
+  },
+  "AllZic faire la fête": {
+    "url": "http://allzic26.ice.infomaniak.ch/allzic26.mp3",
+    "country": "FR"
+  },
+  "AllZic Fitness": {
+    "url": "http://allzic13.ice.infomaniak.ch/allzic13.mp3",
+    "country": "FR"
+  },
+  "AllZic Funk": {
+    "url": "http://allzic08.ice.infomaniak.ch/allzic11.mp3",
+    "country": "FR"
+  },
+  "AllZic Gold Francais": {
+    "url": "http://allzic30.ice.infomaniak.ch/allzic30.mp3",
+    "country": "FR"
+  },
+  "AllZic Gothique": {
+    "url": "http://allzic27.ice.infomaniak.ch/allzic27.mp3",
+    "country": "FR"
+  },
+  "AllZic Hard et Heavy": {
+    "url": "http://allzic18.ice.infomaniak.ch/allzic18.mp3",
+    "country": "FR"
+  },
+  "AllZic Humour": {
+    "url": "http://allzic25.ice.infomaniak.ch/allzic25.mp3",
+    "country": "FR"
+  },
+  "AllZic Inter Active": {
+    "url": "http://allzic20.ice.infomaniak.ch/allzic20.mp3",
+    "country": "FR"
+  },
+  "AllZic Italia": {
+    "url": "http://allzic35.ice.infomaniak.ch/allzic35.mp3",
+    "country": "FR"
+  },
+  "AllZic Johnny": {
+    "url": "http://allzic56.ice.infomaniak.ch/allzic56.mp3",
+    "country": "FR"
+  },
+  "AllZic Jazz Lounge": {
+    "url": "http://allzic03.ice.infomaniak.ch/allzic03.mp3",
+    "country": "FR"
+  },
+  "AllZic Latino": {
+    "url": "http://allzic39.ice.infomaniak.ch/allzic39.mp3",
+    "country": "FR"
+  },
+  "AllZic Live francais": {
+    "url": "http://allzic44.ice.infomaniak.ch/allzic44.mp3",
+    "country": "FR"
+  },
+  "AllZic Live gold": {
+    "url": "http://allzic45.ice.infomaniak.ch/allzic45.mp3",
+    "country": "FR"
+  },
+  "AllZic Lounge": {
+    "url": "http://allzic21.ice.infomaniak.ch/allzic21.mp3",
+    "country": "FR"
+  },
+  "AllZic Love Song": {
+    "url": "http://allzic34.ice.infomaniak.ch/allzic34.mp3",
+    "country": "FR"
+  },
+  "AllZic Musique Orientale": {
+    "url": "http://allzic33.ice.infomaniak.ch/allzic33.mp3",
+    "country": "FR"
+  },
+  "AllZic National 7": {
+    "url": "http://allzic38.ice.infomaniak.ch/allzic38.mp3",
+    "country": "FR"
+  },
+  "AllZic Noel": {
+    "url": "http://allzic42.ice.infomaniak.ch/allzic42.mp3",
+    "country": "FR"
+  },
+  "AllZic Nouveautes francaises": {
+    "url": "http://allzic23.ice.infomaniak.ch/allzic23.mp3",
+    "country": "FR"
+  },
+  "AllZic Pop queens": {
+    "url": "http://allzic54.ice.infomaniak.ch/allzic54.mp3",
+    "country": "FR"
+  },
+  "AllZic R and B": {
+    "url": "http://allzic08.ice.infomaniak.ch/allzic10.mp3",
+    "country": "FR"
+  },
+  "AllZic Rap FR": {
+    "url": "http://allzic02.ice.infomaniak.ch/allzic02.mp3",
+    "country": "FR"
+  },
+  "AllZic Rap US": {
+    "url": "http://allzic01.ice.infomaniak.ch/allzic01.mp3",
+    "country": "FR"
+  },
+  "AllZic Reggae": {
+    "url": "http://allzic43.ice.infomaniak.ch/allzic43.mp3",
+    "country": "FR"
+  },
+  "AllZic Rock FM": {
+    "url": "http://allzic17.ice.infomaniak.ch/allzic17.mp3",
+    "country": "FR"
+  },
+  "AllZic Route 66": {
+    "url": "http://allzic37.ice.infomaniak.ch/allzic37.mp3",
+    "country": "FR"
+  },
+  "AllZic Top 10": {
+    "url": "http://allzic22.ice.infomaniak.ch/allzic22.mp3",
+    "country": "FR"
+  },
+  "AllZic Top 20": {
+    "url": "http://allzic41.ice.infomaniak.ch/allzic41.mp3",
+    "country": "FR"
+  },
+  "AllZic Top 50": {
+    "url": "http://allzic55.ice.infomaniak.ch/allzic55.mp3",
+    "country": "FR"
+  },
+  "AllZic Zouk": {
+    "url": "http://allzic28.ice.infomaniak.ch/allzic28.mp3",
+    "country": "FR"
+  },
+  "AllZic Zen": {
+    "url": "http://allzic20.ice.infomaniak.ch/allzic20.mp3",
+    "country": "FR"
+  },
+  "Urban Hit": {
+    "url": "https://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3",
+    "country": "FR"
+  },
+  "Urban Hit à l'ancienne": {
+    "url": "https://urbanhitalancienne.ice.infomaniak.ch/urbanhitalancienne.mp3",
+    "country": "FR"
+  },
+  "Urban afro": {
+    "url": "https://urbanhitblack.ice.infomaniak.ch/urbanhitblack128.mp3",
+    "country": "FR"
+  },
+  "Urban funk": {
+    "url": "http://urbanhitfunk.ice.infomaniak.ch/urbanhitfunk-128.mp3",
+    "country": "FR"
+  },
+  "Urban Hit latino": {
+    "url": "https://urbanhitlatino.ice.infomaniak.ch/urbanhitreggeaton-128.mp3",
+    "country": "FR"
+  },
+  "Urban Hit Maroc": {
+    "url": "https://urbanhitrai.ice.infomaniak.ch/urbanhitrai.mp3",
+    "country": "FR"
+  },
+  "Urban Hit rap FR": {
+    "url": "https://urbanhitrapfr.ice.infomaniak.ch/urbanhitrapfr-128.mp3",
+    "country": "FR"
+  },
+  "Urban Hit US": {
+    "url": "https://urbanhitus.ice.infomaniak.ch/urbanhitus-128.mp3",
+    "country": "FR"
+  },
+  "Swigg": {
+    "url": "https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3",
+    "country": "FR"
+  },
+  "Swigg US": {
+    "url": "https://swigg-us.ice.infomaniak.ch/swigg-us.mp3",
+    "country": "FR"
+  },
+  "Swigg 9.3": {
+    "url": "https://swigg-93.ice.infomaniak.ch/swigg-93.mp3",
+    "country": "FR"
+  },
+  "Swigg rap FR": {
+    "url": "https://swigg-fr.ice.infomaniak.ch/swigg-fr.mp3",
+    "country": "FR"
+  },
+  "Swigg Marseille": {
+    "url": "https://swigg-marseille.ice.infomaniak.ch/swigg-marseille.mp3",
+    "country": "FR"
+  },
+  "Swigg work": {
+    "url": "https://swigg-work.ice.infomaniak.ch/swigg-work.mp3",
+    "country": "FR"
+  },
+  "Swigg classic fr": {
+    "url": "https://swigg-classic-fr.ice.infomaniak.ch/swigg-classic-fr.mp3",
+    "country": "FR"
+  },
+  "Swigg classic US": {
+    "url": "https://swigg-classic-us.ice.infomaniak.ch/swigg-classic-us.mp3",
+    "country": "FR"
+  },
+  "BlackBox": {
+    "url": "https://start-blackbox.ice.infomaniak.ch/start-blackbox-high.mp3",
+    "country": "FR"
+  },
+  "BlackBox US": {
+    "url": "https://blackbox-us.ice.infomaniak.ch/blackbox-us.mp3",
+    "country": "FR"
+  },
+  "BlackBox 9.3": {
+    "url": "https://blackbox-93.ice.infomaniak.ch/blackbox-93.mp3",
+    "country": "FR"
+  },
+  "BlackBox FR": {
+    "url": "https://blackbox-fr.ice.infomaniak.ch/blackbox-fr.mp3",
+    "country": "FR"
+  },
+  "BlackBox Marseille": {
+    "url": "https://blackbox-marseille.ice.infomaniak.ch/blackbox-marseille.mp3",
+    "country": "FR"
+  },
+  "BlackBox work": {
+    "url": "https://blackboxwork.ice.infomaniak.ch/blackboxwork-128.mp3",
+    "country": "FR"
+  },
+  "BlackBox classic FR": {
+    "url": "https://blackbox-classic-fr.ice.infomaniak.ch/blackbox-classic-fr.mp3",
+    "country": "FR"
+  },
+  "BlackBox classic US": {
+    "url": "https://blackbox-classic-us.ice.infomaniak.ch/blackbox-classic-us.mp3",
+    "country": "FR"
+  },
+  "BlackBox latina": {
+    "url": "https://blackboxlatina.ice.infomaniak.ch/blackboxlatina-128.mp3",
+    "country": "FR"
+  },
+  "Le Mouv'": {
+    "url": "http://direct.mouv.fr/live/mouv-midfi.mp3",
+    "country": "FR"
+  },
+  "Le Mouv' 100% Mix": {
+    "url": "http://icecast.radiofrance.fr/mouv100p100mix-midfi.mp3",
+    "country": "FR"
+  },
+  "Le Mouv' Classics": {
+    "url": "http://icecast.radiofrance.fr/mouvclassics-midfi.mp3",
+    "country": "FR"
+  },
+  "Le Mouv' DanceHall": {
+    "url": "http://icecast.radiofrance.fr/mouvdancehall-midfi.mp3",
+    "country": "FR"
+  },
+  "Le Mouv' Rap Français": {
+    "url": "http://icecast.radiofrance.fr/mouvrapfr-midfi.mp3",
+    "country": "FR"
+  },
+  "Le Mouv' Rap US": {
+    "url": "http://icecast.radiofrance.fr/mouvrapus-midfi.mp3",
+    "country": "FR"
+  },
+  "Le Mouv' RnB": {
+    "url": "http://icecast.radiofrance.fr/mouvrnb-midfi.mp3",
+    "country": "FR"
+  },
+  "Le Mouv' Kids'n family": {
+    "url": "https://icecast.radiofrance.fr/mouvkidsnfamily-midfi.mp3",
+    "country": "FR"
+  },
+  "Generation": {
+    "url": "http://generationfm.ice.infomaniak.ch/generationfm-high.mp3",
+    "country": "FR"
+  },
+  "Generation rap FR gold": {
+    "url": "http://gene-wr06.ice.infomaniak.ch/gene-wr06.mp3",
+    "country": "FR"
+  },
+  "Generation 101.5 Lyon": {
+    "url": "http://radiosun.ice.infomaniak.ch/radiosun-high.mp3",
+    "country": "FR"
+  },
+  "Generation Rookie": {
+    "url": "http://generations-wr003.ice.infomaniak.ch/generations-wr003.mp3",
+    "country": "FR"
+  },
+  "Generation rap FR": {
+    "url": "http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.mp3",
+    "country": "FR"
+  },
+  "Generation funk": {
+    "url": "http://gene-wr05.ice.infomaniak.ch/gene-wr05.mp3",
+    "country": "FR"
+  },
+  "Generation rap US": {
+    "url": "http://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3",
+    "country": "FR"
+  },
+  "Generation rnb": {
+    "url": "http://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.mp3",
+    "country": "FR"
+  },
+  "Generation EMBN": {
+    "url": "http://gene-wr10.ice.infomaniak.ch/gene-wr10.mp3",
+    "country": "FR"
+  },
+  "Generation raggaeton": {
+    "url": "http://generations-rgton.ice.infomaniak.ch/generations-rgton.mp3",
+    "country": "FR"
+  },
+  "Generation reggae": {
+    "url": "http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.mp3",
+    "country": "FR"
+  },
+  "Generation Booba": {
+    "url": "http://generations-booba.ice.infomaniak.ch/generations-booba.mp3",
+    "country": "FR"
+  },
+  "Generation rap US gold": {
+    "url": "http://gene-wr08.ice.infomaniak.ch/gene-wr08.mp3",
+    "country": "FR"
+  },
+  "Generation slowjam": {
+    "url": "http://gene-wr11.ice.infomaniak.ch/gene-wr11.mp3",
+    "country": "FR"
+  },
+  "Generation Rohff": {
+    "url": "http://generation-rohff.ice.infomaniak.ch/generation-rohff.mp3",
+    "country": "FR"
+  },
+  "Generation soul": {
+    "url": "http://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3",
+    "country": "FR"
+  },
+  "Generation New jack": {
+    "url": "http://generations-njs.ice.infomaniak.ch/generations-njs.mp3",
+    "country": "FR"
+  },
+  "Generation Watti B": {
+    "url": "http://generations-wati-b.ice.infomaniak.ch/generations-wati-b.mp3",
+    "country": "FR"
+  },
+  "Generation girl": {
+    "url": "http://generations-girls.ice.infomaniak.ch/generations-girls.mp3",
+    "country": "FR"
+  },
+  "Generation rnb gold": {
+    "url": "http://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.mp3",
+    "country": "FR"
+  },
+  "Generation la fouine": {
+    "url": "http://generations-la-fouine.ice.infomaniak.ch/generations-la-fouine.mp3",
+    "country": "FR"
+  },
+  "Generation 90's": {
+    "url": "http://generations-90.ice.infomaniak.ch/generations-90.mp3",
+    "country": "FR"
+  },
+  "Generation 2000": {
+    "url": "http://generations-2000.ice.infomaniak.ch/generations-2000.mp3",
+    "country": "FR"
+  },
+  "Generation freestyle": {
+    "url": "http://gene-wr09.ice.infomaniak.ch/gene-wr09.mp3",
+    "country": "FR"
+  },
+  "Generation Afro BEAT": {
+    "url": "http://generations-wr001.ice.infomaniak.ch/generations-wr001.mp3",
+    "country": "FR"
+  },
+  "Generation Jul": {
+    "url": "http://generations-jul.ice.infomaniak.ch/generations-jul.mp3",
+    "country": "FR"
+  },
+  "Generation hype": {
+    "url": "http://generations-wr002.ice.infomaniak.ch/generations-wr002.mp3",
+    "country": "FR"
+  },
+  "Radio Star Provence": {
+    "url": "https://www.radioking.com/play/radio-star/49346",
+    "country": "FR"
+  },
+  "Radio Star Hits": {
+    "url": "http://listen.radioking.com/radio/11598/stream/49322",
+    "country": "FR"
+  },
+  "Radio Star Soprano": {
+    "url": "https://www.radioking.com/play/radio-star-dance/49340",
+    "country": "FR"
+  },
+  "Fréquence 3": {
+    "url": "https://frequence3.net-radio.fr/frequence3.flac",
+    "country": "FR"
+  },
+  "Magic Radio": {
+    "url": "http://mp3.magic-radio.net/flac",
+    "country": "FR"
+  },
+  "95bfm": {
+    "url": "http://streams.95bfm.com/stream112",
+    "country": "FR"
+  },
+  "Chill Out Zone Plus": {
+    "url": "https://chillout.zone/chillout_plus",
+    "country": "FR"
+  },
+  "CRo Vltava": {
+    "url": "http://amp.cesnet.cz:8000/cro3.flac",
+    "country": "FR"
+  },
+  "CRo D-dur": {
+    "url": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
+    "country": "FR"
+  },
+  "CRo Jazz": {
+    "url": "http://amp.cesnet.cz:8000/cro-jazz.flac",
+    "country": "FR"
+  },
+  "CRo Wave": {
+    "url": "http://amp.cesnet.cz:8000/cro-radio-wave.flac",
+    "country": "FR"
+  },
+  "Experimental Pop 1": {
+    "url": "http://mscp2.live-streams.nl:8100/flac.flac",
+    "country": "FR"
+  },
+  "Experimental Pop 2": {
+    "url": "http://mediaserv30.live-streams.nl:8086/live",
+    "country": "FR"
+  },
+  "Experimental Latin": {
+    "url": "http://mediaserv33.live-streams.nl:8034/live",
+    "country": "FR"
+  },
+  "Experimental Jazz": {
+    "url": "http://mediaserv38.live-streams.nl:8006/live",
+    "country": "FR"
+  },
+  "Experimental Lounge": {
+    "url": "http://mediaserv33.live-streams.nl:8036/live",
+    "country": "FR"
+  },
+  "Experimental Gold": {
+    "url": "http://mediaserv30.live-streams.nl:8000/live",
+    "country": "FR"
+  },
+  "Experimental World": {
+    "url": "http://mediaserv38.live-streams.nl:8027/live",
+    "country": "FR"
+  },
+  "Experimental Classical": {
+    "url": "http://mediaserv30.live-streams.nl:8088/live",
+    "country": "FR"
+  },
+  "Experimental France": {
+    "url": "http://mediaserv21.live-streams.nl:8000/live",
+    "country": "FR"
+  },
+  "Free Music radio": {
+    "url": "http://stream.freemusicradio.nl:8100/stream.oga",
+    "country": "FR"
+  },
+  "H2O": {
+    "url": "http://ice2.ikoula.net-radio.fr/h2oradio.flac",
+    "country": "FR"
+  },
+  "Hi online": {
+    "url": "http://mscp2.live-streams.nl:8100/flac.flac",
+    "country": "FR"
+  },
+  "Hitz983": {
+    "url": "https://cdn2.cloudrad.io/983flac/stream.flac/listen.m3u",
+    "country": "FR"
+  },
+  "Intense radio": {
+    "url": "http://secure.live-streams.nl/flac.flac",
+    "country": "FR"
+  },
+  "JB radio": {
+    "url": "https://maggie.torontocast.com:8076/flac",
+    "country": "FR"
+  },
+  "Knixx": {
+    "url": "https://s1.knixx.fm/dein_webradio_512.opus?611x4nv5tcs",
+    "country": "FR"
+  },
+  "Lucifer": {
+    "url": "http://gnoenet.nl/radio/8000/luciferflac.mp3",
+    "country": "FR"
+  },
+  "Main Mix": {
+    "url": "http://stream.radioparadise.com/flac",
+    "country": "FR"
+  },
+  "Mellow Mix": {
+    "url": "http://stream.radioparadise.com/mellow-flac",
+    "country": "FR"
+  },
+  "Mother Earth": {
+    "url": "http://server9.streamserver24.com:18900/motherearth",
+    "country": "FR"
+  },
+  "Naim ": {
+    "url": "http://mscp3.live-streams.nl:8360/flac.flac",
+    "country": "FR"
+  },
+  "Naim classical": {
+    "url": "http://mscp3.live-streams.nl:8250/class-flac.flac",
+    "country": "FR"
+  },
+  "Naim Jazz": {
+    "url": "http://mscp3.live-streams.nl:8340/jazz-flac.flac",
+    "country": "FR"
+  },
+  "Radio 2.0": {
+    "url": "http://vps.radioduepuntozero.it:8000/stream.ogg.m3u",
+    "country": "FR"
+  },
+  "Radio blues": {
+    "url": "https://streams.radiomast.io:80/radioblues-flac",
+    "country": "FR"
+  },
+  "Radio Kemonia": {
+    "url": "http://kemoniastreaming2.net:8060/stream",
+    "country": "FR"
+  },
+  "Radio Paradise": {
+    "url": "http://stream.radioparadise.com/flac",
+    "country": "FR"
+  },
+  "Radio Paradise Mellow": {
+    "url": "http://stream.radioparadise.com/mellow-flac",
+    "country": "FR"
+  },
+  "Radio Paradise Rock": {
+    "url": "http://stream.radioparadise.com/rock-flac",
+    "country": "FR"
+  },
+  "Rondo": {
+    "url": "http://rondo.iradio.fi:8000/klasupro.flac",
+    "country": "FR"
+  },
+  "Radio Paradise Eclectic": {
+    "url": "http://stream.radioparadise.com/eclectic-flac",
+    "country": "FR"
+  },
+  "Riverside radio": {
+    "url": "https://stream.and-stuff.nl:8443/live-riverside-flac",
+    "country": "FR"
+  },
+  "Rock Mix": {
+    "url": "http://stream.radioparadise.com/rock-flac",
+    "country": "FR"
+  },
+  "Rondo classic": {
+    "url": "http://rondo.iradio.fi:8000/klasupro.flac",
+    "country": "FR"
+  },
+  "Sector 80s": {
+    "url": "http://89.223.45.5:8000/geny-flac",
+    "country": "FR"
+  },
+  "Sector 90s": {
+    "url": "http://89.223.45.5:8000/next-flac",
+    "country": "FR"
+  },
+  "Sector Classical": {
+    "url": "http://89.223.45.5:8000/nota-flac",
+    "country": "FR"
+  },
+  "Sector Progressive": {
+    "url": "http://89.223.45.5:8000/progressive-flac",
+    "country": "FR"
+  },
+  "Sector Space": {
+    "url": "http://89.223.45.5:8000/space-flac",
+    "country": "FR"
+  },
+  "Sector 10s": {
+    "url": "http://89.223.45.5:8000/zed-flac",
+    "country": "FR"
+  },
+  "Sing sing": {
+    "url": "http://stream.sing-sing-bis.org:8000/singsingFlac",
+    "country": "FR"
+  },
+  "Sputnik": {
+    "url": "http://radiosputnik.nl:8002/flac",
+    "country": "FR"
+  },
+  "Sun radio": {
+    "url": "https://diffusion.lafrap.fr/sun.flac",
+    "country": "FR"
+  },
+  "Super stéréo": {
+    "url": "http://198.204.228.202:8160/flac",
+    "country": "FR"
+  },
+  "Super stéréo 2": {
+    "url": "http://198.204.228.202:8157/flac",
+    "country": "FR"
+  },
+  "Super stéréo 3": {
+    "url": "http://198.204.228.202:8539/flac",
+    "country": "FR"
+  },
+  "Super stéréo 4": {
+    "url": "http://198.204.228.202:8030/flac",
+    "country": "FR"
+  },
+  "The cheese": {
+    "url": "http://thecheese.ddns.net:8004/stream.m3u",
+    "country": "FR"
+  },
+  "World Electric Mix": {
+    "url": "http://stream.radioparadise.com/eclectic-flac",
+    "country": "FR"
+  },
+  "Xradionl": {
+    "url": "http://amp.cesnet.cz:8000/cro3.flac",
+    "country": "FR"
+  },
+  "Zog radio": {
+    "url": "http://icecast.zog.net.au:8000/source",
+    "country": "FR"
+  }
+}
